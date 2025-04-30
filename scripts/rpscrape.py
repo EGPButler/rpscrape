@@ -20,6 +20,8 @@ from utils.update import Update
 from utils.course import course_name, courses
 from utils.lxml_funcs import xpath
 
+import time
+
 settings = Settings()
 random_header = RandomHeader()
 
